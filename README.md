@@ -1,4 +1,4 @@
-# budget_tracker
+# Budget Tracker
 
 # Description
 An app the user can use to track a budget on and offline.
